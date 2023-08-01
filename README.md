@@ -5,5 +5,7 @@ O X Window System (também conhecido como X11 ou simplesmente X) é um sistema d
 
 ![Screenshot](twitter-x.png)
 
+![Screenshot](X-Window-System-MIT.png)
+
 ![Screenshot](X-Window-System.png)
-![Screenshot](X Window System 001.png)
+
